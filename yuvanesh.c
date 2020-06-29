@@ -94,3 +94,4 @@ int main()
         else
            printf("\nNo");
     }
+}      // added missing closing bracket on 29-06-2020
